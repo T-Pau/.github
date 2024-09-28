@@ -1,31 +1,33 @@
+These are our projects for Retro Computers, mainly Commodore 64.
+
 ## Programs
 
-[Anykey](../../../../Anykey) - Test your keyboard and Joysticks
+[Anykey](../../../../Anykey) - Test your keyboard and Joysticks.
 
-[Joyride](../../../../Joyride) - Test all your controllers
+[Joyride](../../../../Joyride) - Test all your controllers.
 
-[Zak-Supervisor](../../../../Zak-Supervisor) - Play and monitor music
+[Zak-Supervisor](../../../../Zak-Supervisor) - Play and monitor music on your C64.
 
-[Tachyon-RL](../../../../Tachyon-RL) - Back up your CMD RAMLink
+[Tachyon-RL](../../../../Tachyon-RL) - Back up your CMD RAMLink.
 
-## Development Tools
+## Cross Development Tools
 
-[Accelerate](../../../../Accelerate) - Flexible cross assembler
+[Accelerate](../../../../Accelerate) - Flexible and extensible cross assembler.
 
-[accelerate.tpau.group](../../../../accelerate.tpau.group) - Documentation for Accelerate
+[accelerate.tpau.group](../../../../accelerate.tpau.group) - Documentation for Accelerate.
 
-[fast-ninja](../../../../fast-ninja) - Make [Ninja](https://ninja-build.org/) build system usable on its own
+[fast-ninja](../../../../fast-ninja) - Make [Ninja](https://ninja-build.org/) build system usable on its own.
 
-[ToolKit](../../../../ToolKit) - Collection of scripts and libraries
+[ToolKit](../../../../ToolKit) - Collection of scripts and libraries.
 
-[foundation](../../../../foundation) - C++ library used our programs
+[foundation](../../../../foundation) - C++ library used our programs.
 
 ## Emulators
 
-[Ready](../../../../Ready) - Home Computer emulators for iPad
+[Ready](../../../../Ready) - A home computer emulator for iPad.
 
 ## Hardware
 
-[Userport-RTC](../../../../Userport-RTC) - Connect a realtime clock to the C64's User Port
+[Userport-RTC](../../../../Userport-RTC) - Connect a realtime clock to the C64's User Port.
 
-[VGA-Breakout](../../../../VGA-Breakout) - Breakout Board for VGA
+[VGA-Breakout](../../../../VGA-Breakout) - Breakout Board for VGA.
