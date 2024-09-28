@@ -28,6 +28,6 @@ These are our projects for Retro Computers, mainly Commodore 64.
 
 ## Hardware
 
-[Userport-RTC](../../../../Userport-RTC) - Connect a realtime clock to the C64's User Port.
+[User-Port-RTC](../../../../User-Port-RTC) - Connect a realtime clock to the C64's User Port.
 
 [VGA-Breakout](../../../../VGA-Breakout) - Breakout Board for VGA.
