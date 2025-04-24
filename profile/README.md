@@ -28,6 +28,10 @@ These are our projects for Retro Computers, mainly Commodore 64.
 
 ## Hardware
 
+[KIM-1 6102 Adapter](../../../KIM-1-6102-Adapter) - Replace 6102 RAM ICs with 62256.
+
+[PAL-2 to KIM-1 Adapter](../../../PAL-2-Adapter) - Use KIM-1 cards with PAL-2.
+
 [User-Port-RTC](../../../../User-Port-RTC) - Connect a realtime clock to the C64's User Port.
 
 [VGA-Breakout](../../../../VGA-Breakout) - Breakout Board for VGA.
