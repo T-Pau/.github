@@ -20,7 +20,7 @@ These are our projects for Retro Computers, mainly Commodore 64.
 
 [ToolKit](../../../../ToolKit) - Collection of scripts and libraries.
 
-[foundation](../../../../foundation) - C++ library used our programs.
+[T'Pau C++ Kernal](../../../../tpau-cpp-kernal) - C++ library used in our programs.
 
 ## Emulators
 
