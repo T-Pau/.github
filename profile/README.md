@@ -14,8 +14,6 @@ These are our projects for Retro Computers, mainly Commodore 64.
 
 [Accelerate](../../../../Accelerate) - Flexible and extensible cross assembler.
 
-[accelerate.tpau.group](../../../../accelerate.tpau.group) - Documentation for Accelerate.
-
 [fast-ninja](../../../../fast-ninja) - Make [Ninja](https://ninja-build.org/) build system usable on its own.
 
 [ToolKit](../../../../ToolKit) - Collection of scripts and libraries.
